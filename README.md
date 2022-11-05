@@ -1,2 +1,2 @@
-# drug_regimen_analysis
-A repo for drug regimen analysis using matplotlib. 
+# Drug Data Analysis using Matplotlib
+This repo contains a jupyter notebook utilizing pandas data transformation for data visualizations using Matplotlib.
