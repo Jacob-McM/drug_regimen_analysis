@@ -52,3 +52,9 @@ This section aimed to visualize the averaged data point scatter of tumor volume 
 
 ### *Section IX*: Correlation and Regression
 This section aimed to visualize the correlation and regression of the averaged data point scatter of tumor volume to the weight of mice. Ultimately, what it shows is a strong linear relationship of the scatter plot data, and a strong coeffiecient of determination for the relationship between the weight of a mouse and its tumor volume. The analysis and observation views this through the lens of the established idea of the ratio of tumor volume to patient/subject weight as an indicator of patient outcome.
+
+## References/Acknowledgements
+
+###### Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
+###### © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
